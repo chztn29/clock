@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/CLOCK.html"
+status = 200
